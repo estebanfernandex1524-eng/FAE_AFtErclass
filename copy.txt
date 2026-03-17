@@ -1,0 +1,274 @@
+FAE-AFtErclass — COPY FINAL DEL SITIO
+Versión: Marzo 2026
+Sin emojis. Todo en español. Tono formal-joven.
+══════════════════════════════════════════════════════════════════
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+A. HERO
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Badge:
+Comunidad estudiantil · Facultad de Administración de Empresas
+
+Título:
+FAE
+AFtErclass
+
+Eslogan:
+Organiza, conecta y avanza semestre a semestre.
+
+Subtítulo:
+Iniciativa estudiantil del Externado de Colombia — accede a materiales, sesiones de estudio
+y una comunidad organizada por semestres a través de Discord.
+
+Botón principal:
+Entrar al AFtER class
+→ https://discord.gg/DaG2rDn68X (nueva pestaña)
+
+Botón secundario:
+Ver los 9 Rounds
+→ #city-map (ancla interna)
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+B. CÓMO UNIRSE AL SERVIDOR DE DISCORD
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Tag: Paso a paso
+Título: Cómo unirte al servidor de Discord
+Lead:
+  El servidor es el espacio central de la iniciativa: canales organizados por Round,
+  recursos, sesiones de estudio y comunicación directa entre estudiantes.
+  Sigue estos pasos para activar tu acceso.
+
+Paso 1 — Crea o accede a tu cuenta de Discord
+  Si ya tienes una cuenta, puedes usarla directamente. Si no, el registro es gratuito
+  y puedes usar tu correo institucional del Externado.
+
+Paso 2 — Accede con el enlace de invitación
+  Haz clic en "Entrar al AFtER class" — el enlace te lleva directamente al servidor de la iniciativa.
+
+Paso 3 — Preséntate en el canal de bienvenida
+  Indica tu nombre, en qué Round vas y las materias que cursas actualmente.
+  Es el primer paso para integrarte a la comunidad.
+
+Paso 4 — Acepta las normas de convivencia
+  El servidor opera bajo principios de respeto, colaboración y honestidad académica.
+  Las normas completas están en el canal correspondiente.
+
+Paso 5 — Selecciona tu Round y comienza
+  Asigna tu rol de Round en el canal de roles. Tendrás acceso a los canales de materiales,
+  sesiones y recursos correspondientes a tu semestre.
+
+Checklist — Requisitos para activar tu perfil:
+  - Presentarte en el canal de bienvenida
+  - Aceptar las normas del servidor
+  - Asignar tu Round en el canal de roles
+  - Participar en la primera sesión de tu Round
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+C. RECURSOS (gestionados en Discord)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Tag: Materiales
+Título: Recursos y archivos gestionados en Discord
+
+Texto:
+  Los apuntes, guías, resúmenes, PDFs y demás recursos de la comunidad se organizan
+  y comparten dentro de los canales correspondientes a cada Round en el servidor de Discord.
+  Para acceder, subir o consultar materiales, debes ser miembro activo del servidor.
+
+Botón: Entrar al AFtER class → https://discord.gg/DaG2rDn68X
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+D. CALENDARIO
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Tag: Planificación
+Título: Calendario semestral de la iniciativa
+
+Lead:
+  Consulta el calendario semestral con sesiones de estudio, simulacros y talleres programados.
+  El documento se actualiza al inicio de cada semestre académico.
+
+Subtítulo caja: Calendario semestral 2025
+
+Texto caja:
+  El archivo incluye las fechas de las sesiones programadas: Study Sessions, simulacros
+  de evaluación y talleres por Round. Disponible en Google Drive para consulta en cualquier momento.
+
+Botón: Ver calendario semestral
+→ https://drive.google.com/file/d/1Y2RH17AztJtbHiDvnZ9fTPJlC0EH-31c/view?usp=sharing (nueva pestaña)
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+E. MAPA DE ROUNDS (9 Rounds — descripciones del pensum)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Tag: Mapa de Rounds
+Título: Tu recorrido semestral. 9 Rounds. ¿En cuál estás?
+
+Lead:
+  Cada Round corresponde a un semestre de la carrera. El mapa avanza de izquierda a derecha
+  siguiendo la progresión académica. Selecciona cualquier Round para ver su descripción.
+
+ROUND 1 — Semestre 1
+  Identifica las relaciones entre empresa, Estado y sociedad; fundamentos básicos de
+  administración y herramientas de estudio.
+
+ROUND 2 — Semestre 2
+  Identifica los elementos de las áreas funcionales: contabilidad, economía y fundamentos
+  organizacionales.
+
+ROUND 3 — Semestre 3
+  Comprende variables y relaciones en cada área funcional; énfasis en métodos cuantitativos
+  y análisis.
+
+ROUND 4 — Semestre 4
+  Modela fenómenos empresariales por área: análisis organizacional, mercados y procesos
+  productivos.
+
+ROUND 5 — Semestre 5
+  Diagnostica y resuelve problemas funcionales; toma de decisiones en finanzas, mercadeo
+  y operaciones.
+
+ROUND 6 — Semestre 6
+  Integra áreas funcionales para diseñar soluciones empresariales; proyectos aplicados
+  y operaciones.
+
+ROUND 7 — Semestre 7
+  Diseña planes gerenciales: innovación, emprendimiento y formulación de planes de negocio.
+
+ROUND 8 — Semestre 8
+  Profundiza en énfasis (estrategia, finanzas, mercadeo, etc.) y prepara la gestión directiva.
+
+ROUND 9 — Semestre 9
+  Cierra con práctica o trabajo de grado: tesis, monografía y evaluación integral de
+  competencias.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+F. NOSOTROS / FUNDADORES
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Tag: La iniciativa
+Título: Quiénes somos y hacia dónde vamos
+
+MISIÓN:
+  Democratizar el acceso a ecosistemas de estudio colectivo en la Facultad de Administración
+  de Empresas del Externado de Colombia, poniendo al alcance de todos los estudiantes
+  los recursos, las conexiones y las herramientas que hacen la diferencia en cada semestre.
+
+VISIÓN:
+  Para el año 2028, ser una comunidad estudiantil activa y consolidada que aprovecha
+  herramientas tecnológicas de vanguardia para construir ecosistemas de estudio en toda
+  la Universidad Externado de Colombia y cada una de sus facultades.
+
+── FUNDADORES ──
+
+Tag: Fundadores
+Título: Los fundadores del AFtER class
+
+ESTEBAN FERNÁNDEZ
+Rol: Cofundador · Arquitecto de la iniciativa
+Ficha:
+  Estudiante de Administración de Empresas y Ciencia de Datos en el Externado de Colombia.
+  Su interés por la creatividad juvenil y la libertad lo llevaron a materializar esas inquietudes
+  en proyectos académicos con impacto real, entre ellos el AFtER class.
+
+JUAN JOSÉ GÓMEZ
+Rol: Cofundador · Estrategia y operaciones
+Ficha:
+  Estudiante de Administración de Empresas con enfoque en estrategia organizacional y gestión
+  de proyectos. Contribuye al diseño de las dinámicas colaborativas que estructuran la comunidad.
+
+DULCE GUERRERO
+Rol: Cofundadora · Comunicaciones y contenido
+Ficha:
+  Estudiante con orientación en comunicaciones y gestión de comunidades educativas.
+  Lidera la producción de contenidos que acercan la iniciativa a todos los Rounds de la carrera.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+G. SUGERENCIAS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Tag: Tu voz importa
+Título: Propón una mejora para la iniciativa
+
+Lead:
+  El AFtER class se construye con la participación de la comunidad. Si tienes una idea
+  que pueda mejorar la experiencia de los estudiantes, compártela aquí.
+
+Formulario:
+  Campo: Nombre (opcional)
+  Campo: Tu propuesta *
+  Checkbox: Enviar de forma anónima
+  Botón: Enviar mi idea
+  → Al hacer clic abre Gmail en nueva pestaña con:
+    TO: estebanfernandex1524@gmail.com
+    ASUNTO: Sugerencia FAE-AFtErclass
+    BODY: texto prellenado desde el formulario (codificado en URL)
+
+Link visible de contacto directo:
+  Texto: "Contacto por correo (asuntos formales)"
+  → URL: https://mail.google.com/mail/?view=cm&fs=1&to=estebanfernandex1524@gmail.com&su=Sugerencia%20FAE-AFtErclass&body=
+  → Nueva pestaña
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+H. CONTACTO
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Tag: Contacto
+Título: Comunícate con el equipo de la iniciativa
+
+Texto:
+  Si tienes una propuesta de colaboración, encontraste un problema en el servidor,
+  quieres participar como moderador o necesitas información adicional sobre la iniciativa,
+  puedes contactarnos a través de los siguientes canales.
+
+Canal 1 — Discord (canal principal):
+  Texto: "Discord — Entrar al servidor"
+  → https://discord.gg/DaG2rDn68X (nueva pestaña)
+
+Canal 2 — Correo (asuntos formales):
+  Texto: "estebanfernandex1524@gmail.com"
+  → https://mail.google.com/mail/?view=cm&fs=1&to=estebanfernandex1524@gmail.com&su=Contacto%20FAE-AFtErclass&body= (nueva pestaña)
+
+Tiempo de respuesta:
+  48 a 72 horas por correo. A través de Discord, la respuesta es inmediata.
+
+Formulario de contacto:
+  Campos: Nombre *, Correo *, Mensaje *
+  Botón: Enviar mensaje
+  → Al enviar abre Gmail con todos los campos prellenados (nueva pestaña)
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+I. FOOTER
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Logo: FAE-AFtErclass
+
+Texto:
+  Iniciativa estudiantil independiente de la Facultad de Administración de Empresas
+  del Externado de Colombia. Organizada por estudiantes, para estudiantes.
+
+Botón footer: Entrar al AFtER class → https://discord.gg/DaG2rDn68X
+
+Secciones (links internos):
+  - Cómo usar Discord
+  - Calendario
+  - Mapa de Rounds
+  - Nosotros
+
+Comunidad:
+  - Sugerencias
+  - Contacto
+
+Recursos:
+  - Servidor de Discord → https://discord.gg/DaG2rDn68X
+  - Calendario semestral → Drive
+  - Contacto por correo → Gmail
+
+Copyright:
+  © 2025 FAE-AFtErclass · Iniciativa estudiantil independiente · Externado de Colombia
+  Sin fines de lucro. Sin patrocinadores ni representación institucional oficial.
+
+══════════════════════════════════════════════════════════════════
+FIN DEL COPY — FAE-AFtErclass | Marzo 2026
