@@ -51,11 +51,12 @@
   <a href="#hero" class="nav-logo" aria-label="FAE-AFtErclass inicio">FAE-AFtErclass</a>
   <ul class="nav-links" role="list">
     <li><a href="#discord-guide">Discord</a></li>
+    <li><a href="#comunidad">Comunidad</a></li>
     <li><a href="#calendar">Calendario</a></li>
     <li><a href="#city-map">Rounds</a></li>
     <li><a href="#objectives">Nosotros</a></li>
-    <li><a href="#suggestions">Sugerencias</a></li>
     <li><a href="#contact">Contacto</a></li>
+    <li><a href="#comentarios">Comentarios</a></li>
     <li>
       <a href="https://discord.gg/DaG2rDn68X"
          class="nav-cta"
@@ -76,11 +77,12 @@
 <!-- Mobile Nav -->
 <div id="mobile-nav" class="mobile-nav" role="dialog" aria-label="Menú móvil">
   <a href="#discord-guide">Discord</a>
+  <a href="#comunidad">Comunidad</a>
   <a href="#calendar">Calendario</a>
   <a href="#city-map">Rounds</a>
   <a href="#objectives">Nosotros</a>
-  <a href="#suggestions">Sugerencias</a>
   <a href="#contact">Contacto</a>
+  <a href="#comentarios">Comentarios</a>
   <a href="https://discord.gg/DaG2rDn68X"
      target="_blank" rel="noopener"
      class="mobile-discord-link"
@@ -239,25 +241,57 @@
             </li>
           </ul>
         </div>
+      </div>
+    </div>
 
-        <!-- YouTube CTA -->
-        <a href="YOUTUBE_TUTORIAL_URL"
-           id="youtube-tutorial-link"
-           class="yt-cta fade-in delay-3"
-           target="_blank"
-           rel="noopener noreferrer"
-           aria-label="Ver tutorial en YouTube: cómo usar el servidor de Discord">
-          <div class="yt-thumb" aria-hidden="true">
-            <!-- Play icon SVG -->
-            <svg width="28" height="28" viewBox="0 0 24 24" fill="currentColor">
-              <path d="M8 5v14l11-7z"/>
-            </svg>
-          </div>
-          <div class="yt-info">
-            <span>Tutorial oficial</span>
-            <strong>Ver tutorial: cómo usar el servidor (YouTube)</strong>
-          </div>
-        </a>
+    <!-- Video nativo (ancho completo) -->
+    <div class="video-container fade-in delay-3">
+      <video
+        controls
+        preload="metadata"
+        aria-label="Video tutorial: cómo usar el servidor de Discord"
+        id="tutorial-video">
+        <source src="assets/video.mp4" type="video/mp4" />
+        Tu navegador no soporta la reproducción de video. Puedes
+        <a href="assets/video.mp4" download>descargar el video aquí</a>.
+      </video>
+      <p class="video-caption">Tutorial: cómo unirte y usar el servidor de Discord</p>
+    </div>
+
+    <!-- Bloque de moderación -->
+    <div class="moderation-card fade-in delay-4">
+      <div class="mod-header">
+        <div class="mod-icon" aria-hidden="true">
+          <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5">
+            <path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z"/>
+          </svg>
+        </div>
+        <h3>Espacio seguro y útil</h3>
+      </div>
+      <p class="mod-intro">El servidor de Discord opera bajo normas claras de convivencia para garantizar un entorno respetuoso y productivo para todos los estudiantes.</p>
+      <ul class="mod-rules">
+        <li>
+          <strong>Sin acoso ni intimidación.</strong>
+          Cualquier forma de hostigamiento, burla o presión hacia otro miembro está prohibida.
+        </li>
+        <li>
+          <strong>Sin discriminación.</strong>
+          No se toleran comentarios por motivos de género, orientación, etnia, religión o condición socioeconómica.
+        </li>
+        <li>
+          <strong>Sin spam ni publicidad.</strong>
+          Mantén los canales limpios y relevantes. No publiques contenido repetitivo ni promocional.
+        </li>
+        <li>
+          <strong>Sin material académico no autorizado.</strong>
+          No compartas parciales filtrados, trabajos ajenos ni contenido que viole la honestidad académica.
+        </li>
+      </ul>
+      <div class="mod-bots">
+        <p><strong>Moderación automatizada:</strong> Bots activos detectan y filtran contenido que incumple las normas, incluyendo lenguaje ofensivo y enlaces sospechosos.</p>
+      </div>
+      <div class="mod-escalation">
+        <p><strong>Conductas del mundo real:</strong> Si una situación dentro del servidor refleja o escala a conductas fuera de la plataforma (acoso presencial, amenazas, etc.), el caso se traslada a moderadores humanos, quienes pueden involucrar a las instancias institucionales correspondientes.</p>
       </div>
     </div>
   </div>
@@ -309,55 +343,131 @@
 </section>
 
 <!-- ═══════════════════════════════════════════════════════
-     D. CALENDARIO
+     D-bis. LA COMUNIDAD POR DENTRO
+════════════════════════════════════════════════════════ -->
+<section id="comunidad" aria-labelledby="comunidad-heading">
+  <div class="section-inner">
+    <div class="section-header fade-in">
+      <span class="section-tag">Comunidad</span>
+      <h2 id="comunidad-heading" class="section-title">
+        La comunidad<br>
+        <span class="accent-primary">por dentro</span>
+      </h2>
+      <p class="section-lead">
+        FAE-AFtErclass no es solo un servidor de Discord. Es una comunidad que funciona porque cada persona que entra aporta algo. Ac&aacute; te contamos c&oacute;mo est&aacute; organizado todo y qu&eacute; papel puedes jugar t&uacute;.
+      </p>
+    </div>
+
+    <div class="comunidad-grid">
+
+      <!-- Bloque 1 -->
+      <div class="comunidad-card fade-in delay-1">
+        <div class="com-card-num" aria-hidden="true">01</div>
+        <div class="com-card-icon" aria-hidden="true">
+          <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5">
+            <path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z"/>
+          </svg>
+        </div>
+        <h3>Un espacio que se cuida solo (y con ayuda)</h3>
+        <p>El servidor tiene moderaci&oacute;n activa. Hay bots que filtran conductas autom&aacute;ticamente, y moderadores humanos que intervienen cuando algo escala. Eso incluye situaciones del mundo real que afecten el ambiente dentro del servidor. La idea es simple: que puedas estudiar, preguntar y compartir sin que nadie te joda el proceso.</p>
+      </div>
+
+      <!-- Bloque 2 -->
+      <div class="comunidad-card fade-in delay-2">
+        <div class="com-card-num" aria-hidden="true">02</div>
+        <div class="com-card-icon" aria-hidden="true">
+          <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5">
+            <path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"/><polyline points="14 2 14 8 20 8"/>
+          </svg>
+        </div>
+        <h3>De d&oacute;nde salen los apuntes</h3>
+        <p>Los apuntes no caen del cielo ni los pone nadie oficial. Los suben estudiantes como t&uacute; que ya pasaron por esa materia o que est&aacute;n en ella ahora. Cada apunte que aparece en el servidor fue puesto ah&iacute; por alguien que decidi&oacute; que val&iacute;a la pena compartirlo.</p>
+      </div>
+
+      <!-- Bloque 3 -->
+      <div class="comunidad-card fade-in delay-3">
+        <div class="com-card-num" aria-hidden="true">03</div>
+        <div class="com-card-icon" aria-hidden="true">
+          <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5">
+            <circle cx="12" cy="12" r="10"/><path d="M9.09 9a3 3 0 0 1 5.83 1c0 2-3 3-3 3"/><line x1="12" y1="17" x2="12.01" y2="17"/>
+          </svg>
+        </div>
+        <h3>Cuando no hay apuntes</h3>
+        <p>Si para una materia todav&iacute;a no hay apuntes, no te quedas en blanco. En ese apartado vas a encontrar el nombre del profesor que la dicta, su correo institucional y las materias que tiene a cargo, informaci&oacute;n cargada por la misma comunidad para que siempre tengas por d&oacute;nde empezar.</p>
+      </div>
+
+      <!-- Bloque 4 -->
+      <div class="comunidad-card comunidad-card-wide fade-in delay-4">
+        <div class="com-card-num" aria-hidden="true">04</div>
+        <div class="com-card-icon" aria-hidden="true">
+          <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5">
+            <path d="M17 21v-2a4 4 0 0 0-4-4H5a4 4 0 0 0-4 4v2"/><circle cx="9" cy="7" r="4"/><path d="M23 21v-2a4 4 0 0 0-3-3.87"/><path d="M16 3.13a4 4 0 0 1 0 7.75"/>
+          </svg>
+        </div>
+        <h3>Tu rol en la comunidad</h3>
+        <p>Cuando entras al servidor no tienes que hacer nada que no quieras. Pero si quieres participar m&aacute;s, hay formas concretas de hacerlo:</p>
+        <div class="roles-grid">
+          <div class="role-item">
+            <span class="role-badge" aria-hidden="true">
+              <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M2 3h6a4 4 0 0 1 4 4v14a3 3 0 0 0-3-3H2z"/><path d="M22 3h-6a4 4 0 0 0-4 4v14a3 3 0 0 1 3-3h7z"/></svg>
+            </span>
+            <div><strong>El Lector</strong> &mdash; Entra, estudia, usa los recursos. Sin m&aacute;s. Tambi&eacute;n es un rol v&aacute;lido.</div>
+          </div>
+          <div class="role-item">
+            <span class="role-badge" aria-hidden="true">
+              <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="17 8 12 3 7 8"/><line x1="12" y1="3" x2="12" y2="15"/></svg>
+            </span>
+            <div><strong>El Cargador</strong> &mdash; Sube sus apuntes al servidor. Lo que para ti ya no sirve, para alguien m&aacute;s puede ser clave.</div>
+          </div>
+          <div class="role-item">
+            <span class="role-badge" aria-hidden="true">
+              <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><polyline points="22 12 18 12 15 21 9 3 6 12 2 12"/></svg>
+            </span>
+            <div><strong>El Curador</strong> &mdash; Revisa lo que se sube y decide si vale la pena destacarlo o no. Mantiene el orden sin que nadie se lo pida.</div>
+          </div>
+          <div class="role-item">
+            <span class="role-badge" aria-hidden="true">
+              <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2"/></svg>
+            </span>
+            <div><strong>El &Aacute;rbitro</strong> &mdash; Califica los apuntes que encuentra. Un voto arriba o abajo ayuda a que los mejores materiales lleguen primero.</div>
+          </div>
+          <div class="role-item">
+            <span class="role-badge" aria-hidden="true">
+              <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M4 4h16c1.1 0 2 .9 2 2v12c0 1.1-.9 2-2 2H4c-1.1 0-2-.9-2-2V6c0-1.1.9-2 2-2z"/><polyline points="22,6 12,13 2,6"/></svg>
+            </span>
+            <div><strong>El Directorio</strong> &mdash; Carga y actualiza la informaci&oacute;n de contacto de los profesores. Correo y materias, nada m&aacute;s, nada menos.</div>
+          </div>
+          <div class="role-item">
+            <span class="role-badge" aria-hidden="true">
+              <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><polygon points="1 6 1 22 8 18 16 22 23 18 23 2 16 6 8 2 1 6"/><line x1="8" y1="2" x2="8" y2="18"/><line x1="16" y1="6" x2="16" y2="22"/></svg>
+            </span>
+            <div><strong>El Cart&oacute;grafo</strong> &mdash; Ubica los apuntes subidos dentro del canal correcto seg&uacute;n la materia para la que sirven. Sin &eacute;l, todo ser&iacute;a un caos.</div>
+          </div>
+        </div>
+      </div>
+
+    </div>
+  </div>
+</section>
+
+<!-- ═══════════════════════════════════════════════════════
+     E. CALENDARIO
 ════════════════════════════════════════════════════════ -->
 <section id="calendar" aria-labelledby="calendar-heading">
   <div class="section-inner">
     <div class="section-header fade-in">
       <span class="section-tag">Planificación</span>
       <h2 id="calendar-heading" class="section-title">
-        Calendario semestral<br>
-        <span class="accent-primary">de la iniciativa</span>
+        Calendario acad&eacute;mico<br>
+        <span class="accent-primary">2026-I</span>
       </h2>
       <p class="section-lead">
-        Consulta el calendario semestral con sesiones de estudio, simulacros y talleres programados.
-        El documento se actualiza al inicio de cada semestre académico.
+        Programaci&oacute;n de actividades del primer semestre 2026 de la Facultad de Administraci&oacute;n de Empresas.
+        Pasa el cursor sobre los d&iacute;as resaltados para ver el detalle de cada actividad.
       </p>
     </div>
 
-    <div class="calendar-cta-section fade-in delay-1">
-      <div class="calendar-info-box">
-        <div class="calendar-icon" aria-hidden="true">
-          <svg width="40" height="40" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5">
-            <rect x="3" y="4" width="18" height="18" rx="2" ry="2"/>
-            <line x1="16" y1="2" x2="16" y2="6"/>
-            <line x1="8" y1="2" x2="8" y2="6"/>
-            <line x1="3" y1="10" x2="21" y2="10"/>
-          </svg>
-        </div>
-        <div class="calendar-text">
-          <h3>Calendario semestral 2025</h3>
-          <p>
-            El archivo incluye las fechas de las sesiones programadas: Study Sessions, simulacros
-            de evaluación y talleres por Round. Disponible en Google Drive para consulta en cualquier momento.
-          </p>
-          <a href="https://drive.google.com/file/d/1Y2RH17AztJtbHiDvnZ9fTPJlC0EH-31c/view?usp=sharing"
-             class="btn-calendar"
-             target="_blank"
-             rel="noopener noreferrer"
-             id="calendar-drive-btn"
-             aria-label="Ver el calendario semestral en Google Drive">
-            <svg aria-hidden="true" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
-              <rect x="3" y="4" width="18" height="18" rx="2" ry="2"/>
-              <line x1="16" y1="2" x2="16" y2="6"/>
-              <line x1="8" y1="2" x2="8" y2="6"/>
-              <line x1="3" y1="10" x2="21" y2="10"/>
-            </svg>
-            Ver calendario semestral
-          </a>
-        </div>
-      </div>
-    </div>
+    <div id="calendar-native" class="calendar-native fade-in delay-1" aria-label="Calendario semestral nativo"></div>
   </div>
 </section>
 
@@ -490,184 +600,10 @@
         </p>
       </div>
 
-    </div>
-
-    <!-- Fundadores -->
-    <div class="creators-section fade-in">
-      <span class="section-tag">Fundadores</span>
-      <h3 class="section-title" style="font-size:clamp(1.4rem,3vw,2rem);margin-top:12px">
-        Los fundadores del <span class="accent-primary">AFtER class</span>
-      </h3>
-
-      <div class="creators-grid">
-        <div class="creator-card">
-          <div class="creator-avatar" aria-hidden="true">E</div>
-          <div class="creator-info">
-            <h4>Esteban Fern&aacute;ndez</h4>
-            <p class="creator-role">Cofundador &middot; Arquitecto de la iniciativa</p>
-            <p>
-              Estudiante de Administraci&oacute;n de Empresas y Ciencia de Datos en el Externado de Colombia.
-              Su inter&eacute;s por la creatividad juvenil y la libertad lo llevaron a materializar esas inquietudes
-              en proyectos acad&eacute;micos con impacto real, entre ellos el AFtER class.
-            </p>
-          </div>
-        </div>
-
-        <div class="creator-card">
-          <div class="creator-avatar" aria-hidden="true">J</div>
-          <div class="creator-info">
-            <h4>Juan Jos&eacute; G&oacute;mez</h4>
-            <p class="creator-role">Cofundador &middot; Estrategia y operaciones</p>
-            <p>
-              Estudiante de Administraci&oacute;n de Empresas con enfoque en estrategia organizacional y gesti&oacute;n de proyectos.
-              Contribuye al dise&ntilde;o de las din&aacute;micas colaborativas que estructuran la comunidad.
-            </p>
-          </div>
-        </div>
-
-        <div class="creator-card">
-          <div class="creator-avatar" aria-hidden="true">D</div>
-          <div class="creator-info">
-            <h4>Dulce Guerrero</h4>
-            <p class="creator-role">Cofundadora &middot; Comunicaciones y contenido</p>
-            <p>
-              Estudiante con orientaci&oacute;n en comunicaciones y gesti&oacute;n de comunidades educativas.
-              Lidera la producci&oacute;n de contenidos que acercan la iniciativa a todos los Rounds de la carrera.
-            </p>
-          </div>
-        </div>
-      </div>
-    </div>
   </div>
 </section>
 
-<!-- ═══════════════════════════════════════════════════════
-     G. SUGERENCIAS Y MEJORAS
-════════════════════════════════════════════════════════ -->
-<section id="suggestions" aria-labelledby="sug-heading">
-  <div class="section-inner">
-    <div class="section-header fade-in">
-      <span class="section-tag">Tu voz importa</span>
-      <h2 id="sug-heading" class="section-title">
-        Propón una mejora<br>
-        <span class="accent-primary">para la iniciativa</span>
-      </h2>
-      <p class="section-lead">
-        El AFtER class se construye con la participación de la comunidad. Si tienes una idea
-        que pueda mejorar la experiencia de los estudiantes, compártela aqui.
-      </p>
-    </div>
 
-    <div class="suggestions-layout">
-
-      <!-- Formulario -->
-      <div>
-        <form id="suggestion-form" class="suggestion-form fade-in delay-1" novalidate aria-label="Formulario de sugerencias">
-          <div class="form-group">
-            <label for="suggestion-name">Nombre (opcional)</label>
-            <input
-              type="text"
-              id="suggestion-name"
-              name="name"
-              placeholder="Tu nombre o un seudónimo"
-              autocomplete="off"
-              maxlength="80"
-            />
-          </div>
-          <div class="form-group">
-            <label for="suggestion-text">Tu propuesta *</label>
-            <textarea
-              id="suggestion-text"
-              name="suggestion"
-              rows="5"
-              placeholder="Describe tu idea con claridad. Puede ser un ajuste pequeño o una propuesta estructural."
-              required
-              maxlength="500"
-              aria-required="true"
-            ></textarea>
-          </div>
-          <label class="form-checkbox" for="suggestion-anon">
-            <input type="checkbox" id="suggestion-anon" name="anonymous" />
-            <span class="custom-checkbox" aria-hidden="true">
-              <svg width="10" height="10" viewBox="0 0 10 10" fill="none" stroke="white" stroke-width="2"><polyline points="2,5 4,8 8,2"/></svg>
-            </span>
-            <span>Enviar de forma anónima</span>
-          </label>
-          <button type="submit" class="btn-submit" id="suggestion-submit-btn">
-            Enviar mi idea
-          </button>
-        </form>
-
-        <!-- Success state -->
-        <div id="suggestion-success" class="form-success" role="status" aria-live="polite">
-          <svg width="56" height="56" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" aria-hidden="true">
-            <circle cx="12" cy="12" r="10"/><polyline points="9,12 11,14 15,10"/>
-          </svg>
-          <h4>Propuesta recibida</h4>
-          <p>El equipo del AFtER class revisará tu sugerencia. Si es viable, la verás implementada en una próxima actualización.</p>
-        </div>
-
-        <!-- Contacto directo -->
-        <div class="contact-direct fade-in delay-2" style="margin-top: 24px;">
-          <p style="font-size: 0.85rem; color: var(--text-muted);">
-            Para asuntos formales o propuestas detalladas, tambi&eacute;n puedes escribirnos directamente:
-            <a href="https://mail.google.com/mail/?view=cm&fs=1&to=estebanfernandex1524@gmail.com&su=Sugerencia%20FAE-AFtErclass&body="
-               target="_blank"
-               rel="noopener noreferrer"
-               class="mail-link">
-              Contacto por correo (asuntos formales)
-            </a>
-          </p>
-        </div>
-      </div>
-
-      <!-- Info adicional -->
-      <div class="suggestions-info fade-in delay-2">
-        <h4>¿Qué tipo de propuestas son bienvenidas?</h4>
-        <div class="info-item">
-          <div class="info-icon" aria-hidden="true">
-            <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
-              <polyline points="9,18 15,12 9,6"/>
-            </svg>
-          </div>
-          <p>Nuevas sesiones de estudio o formatos de trabajo en grupo</p>
-        </div>
-        <div class="info-item">
-          <div class="info-icon" aria-hidden="true">
-            <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
-              <polyline points="9,18 15,12 9,6"/>
-            </svg>
-          </div>
-          <p>Mejoras en la organización del servidor o los canales</p>
-        </div>
-        <div class="info-item">
-          <div class="info-icon" aria-hidden="true">
-            <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
-              <polyline points="9,18 15,12 9,6"/>
-            </svg>
-          </div>
-          <p>Tipos de recursos o materiales que hacen falta</p>
-        </div>
-        <div class="info-item">
-          <div class="info-icon" aria-hidden="true">
-            <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
-              <polyline points="9,18 15,12 9,6"/>
-            </svg>
-          </div>
-          <p>Iniciativas de cooperación con otros estudiantes o programas</p>
-        </div>
-        <div class="info-item">
-          <div class="info-icon" aria-hidden="true">
-            <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
-              <polyline points="9,18 15,12 9,6"/>
-            </svg>
-          </div>
-          <p>Herramientas o tecnologías útiles para la comunidad</p>
-        </div>
-      </div>
-    </div>
-  </div>
-</section>
 
 <!-- ═══════════════════════════════════════════════════════
      H. CONTACTO
@@ -707,10 +643,8 @@
             </div>
           </a>
 
-          <a href="https://mail.google.com/mail/?view=cm&fs=1&to=estebanfernandex1524@gmail.com&su=Contacto%20FAE-AFtErclass&body="
+          <a href="mailto:estebanfernandex1524@gmail.com?subject=Contacto%20FAE-AFtErclass"
              class="contact-link-item"
-             target="_blank"
-             rel="noopener noreferrer"
              aria-label="Enviar correo electr&oacute;nico al equipo FAE">
             <div class="contact-link-icon secondary" aria-hidden="true">
               <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
@@ -756,6 +690,45 @@
 </section>
 
 <!-- ═══════════════════════════════════════════════════════
+     I-bis. COMENTARIOS
+════════════════════════════════════════════════════════ -->
+<section id="comentarios" aria-labelledby="comentarios-heading">
+  <div class="section-inner">
+    <div class="section-header fade-in">
+      <span class="section-tag">Comunidad</span>
+      <h2 id="comentarios-heading" class="section-title">
+        Comentarios de<br>
+        <span class="accent-primary">la comunidad</span>
+      </h2>
+      <p class="section-lead">
+        Comparte tu experiencia, opinión o sugerencia de forma pública.
+        Usa un apodo para mantener tu privacidad.
+      </p>
+    </div>
+
+    <div class="comentarios-layout">
+      <!-- Formulario -->
+      <div class="comentario-form-wrapper fade-in delay-1">
+        <form id="comentario-form" novalidate aria-label="Formulario de comentarios">
+          <div class="form-group">
+            <label for="comentario-apodo">Apodo *</label>
+            <input type="text" id="comentario-apodo" name="apodo" placeholder="Tu apodo (no tu nombre real)" required aria-required="true" maxlength="40" />
+          </div>
+          <div class="form-group">
+            <label for="comentario-text">Comentario * <span id="char-count" class="char-counter">0/280</span></label>
+            <textarea id="comentario-text" name="comentario" rows="4" placeholder="Escribe tu comentario (m&aacute;x. 280 caracteres)" required aria-required="true" maxlength="280"></textarea>
+          </div>
+          <button type="submit" class="btn-submit" id="comentario-submit-btn">Publicar comentario</button>
+        </form>
+      </div>
+
+      <!-- Lista de comentarios -->
+      <div id="comentarios-list" class="comentarios-list fade-in delay-2" aria-live="polite"></div>
+    </div>
+  </div>
+</section>
+
+<!-- ═══════════════════════════════════════════════════════
      I. FOOTER
 ════════════════════════════════════════════════════════ -->
 <footer role="contentinfo">
@@ -794,15 +767,15 @@
 
       <nav class="footer-col" aria-label="Sobre la comunidad">
         <h5>Comunidad</h5>
-        <a href="#suggestions">Sugerencias</a>
         <a href="#contact">Contacto</a>
+        <a href="#comentarios">Comentarios</a>
       </nav>
 
       <nav class="footer-col" aria-label="Recursos principales">
         <h5>Recursos</h5>
         <a href="https://discord.gg/DaG2rDn68X" target="_blank" rel="noopener">Servidor de Discord</a>
-        <a href="https://drive.google.com/file/d/1Y2RH17AztJtbHiDvnZ9fTPJlC0EH-31c/view?usp=sharing" target="_blank" rel="noopener">Calendario semestral</a>
-        <a href="https://mail.google.com/mail/?view=cm&fs=1&to=estebanfernandex1524@gmail.com&su=Contacto%20FAE-AFtErclass&body=" target="_blank" rel="noopener noreferrer">Contacto por correo</a>
+        <a href="#calendar">Calendario semestral</a>
+        <a href="mailto:estebanfernandex1524@gmail.com">Contacto por correo</a>
       </nav>
     </div>
 
@@ -822,6 +795,7 @@
 <!-- ═══════════════════════════════════════════════════════
      SCRIPTS
 ════════════════════════════════════════════════════════ -->
+<script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2"></script>
 <script src="app.js" defer></script>
 
 </body>
